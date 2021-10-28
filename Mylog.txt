@@ -1,0 +1,8 @@
+Drank Water at <class 'datetime.timezone'>
+Drank Water at 00:00:00
+Drank Water at 2021-10-18 09:27:47.751066
+this
+thst
+hh
+HH
+ooo
